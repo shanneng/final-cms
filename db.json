@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "Bryroel",
+      "email": "bryroel@gmail.com",
+      "number": "1111111111",
+      "isActive": true,
+      "id": 1
+    },
+    {
+      "name": "test01",
+      "email": "test@gmail.com",
+      "number": "11111111111",
+      "isActive": true,
+      "id": 2
+    }
+  ]
+}
